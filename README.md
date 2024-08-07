@@ -13,8 +13,12 @@ FGPrint поддерживает следующие конструкции:
 
 ## Пример программы на FGPrint
 
-```fgp
+```
 # Пример скрипта FGPrint
 SET greeting = "Hello, FGPrint!"
 PRINT "Greeting:"
 GET greeting
+```
+
+Запустите интерпретатор с помощью консольного скрипта:
+- `python run_fgp.py example.fgp` - консольный скрипт для запуска FGPrint программ.
