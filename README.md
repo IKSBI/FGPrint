@@ -13,6 +13,7 @@ FGPrint поддерживает следующие конструкции:
 
 ## Пример программы на FGPrint
 
+```fgp
 # Пример скрипта FGPrint
 SET greeting = "Hello, FGPrint!"
 PRINT "Greeting:"
